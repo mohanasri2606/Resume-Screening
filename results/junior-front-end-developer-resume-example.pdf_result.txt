@@ -1,0 +1,4 @@
+Resume: junior-front-end-developer-resume-example.pdf
+Skills: SQL, JavaScript, Node.js
+Match Percentage: 60.0%
+

@@ -1,0 +1,4 @@
+Resume: mid-level-front-end-developer-resume-example.pdf
+Skills: JavaScript
+Match Percentage: 20.0%
+

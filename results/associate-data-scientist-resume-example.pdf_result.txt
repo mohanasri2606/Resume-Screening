@@ -1,0 +1,4 @@
+Resume: associate-data-scientist-resume-example.pdf
+Skills: Python
+Match Percentage: 20.0%
+

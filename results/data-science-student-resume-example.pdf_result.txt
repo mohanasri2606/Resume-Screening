@@ -1,0 +1,4 @@
+Resume: data-science-student-resume-example.pdf
+Skills: Python, SQL
+Match Percentage: 40.0%
+

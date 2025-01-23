@@ -1,0 +1,4 @@
+Resume: front-end-developer-resume-example.pdf
+Skills: Python, JavaScript, Node.js
+Match Percentage: 60.0%
+

@@ -1,0 +1,19 @@
+Position: Full Stack Developer
+
+Required Skills:
+- Proficient in HTML, CSS, JavaScript, React, Node.js, Python
+- Strong knowledge of MySQL, MongoDB, and RESTful APIs
+- Experience with Git and version control
+- Knowledge of web security and performance optimization
+- Familiar with cloud platforms (AWS)
+- Experience with Agile methodologies
+
+Responsibilities:
+- Develop both front-end and back-end components for web applications
+- Collaborate with cross-functional teams to design and build features
+- Optimize applications for scalability and performance
+- Write clean, maintainable code and perform code reviews
+
+Preferred Qualifications:
+- Degree in Computer Science or related field
+- Experience with frameworks (Django)  

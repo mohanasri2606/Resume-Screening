@@ -1,0 +1,4 @@
+Resume: entry-level-data-scientist-resume-example.pdf
+Skills: SQL
+Match Percentage: 20.0%
+

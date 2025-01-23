@@ -1,0 +1,4 @@
+Resume: entry-level-data-analyst-resume-example.pdf
+Skills: Python, SQL
+Match Percentage: 40.0%
+
