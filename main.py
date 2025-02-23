@@ -63,12 +63,16 @@ if __name__ == "__main__":
         print(f"{resume}: {match_percentage}%")
 
     # Generate a chart (bar plot) for sorted resume categories
-    resumes = [resume for resume, _ in sorted_results]
-    match_percentages = [match_percentage for _, match_percentage in sorted_results]
+    if sorted_results:  # Ensure there's data to plot
+        resumes = [resume for resume, _ in sorted_results]
+        match_percentages = [match_percentage for _, match_percentage in sorted_results]
 
-    plt.barh(resumes, match_percentages, color='skyblue')
-    plt.title("Resume Match Percentages")
-    plt.xlabel("Match Percentage")
-    plt.ylabel("Resumes")
-    plt.tight_layout()
-    plt.show()
+        plt.figure(figsize=(10, 6))  # Increase figure size for better readability
+        plt.barh(resumes, match_percentages, color='skyblue')
+        plt.xlabel("Match Percentage")
+        plt.ylabel("Resumes")
+        plt.title("Resume Match Percentages")
+        plt.gca().invert_yaxis()  # Invert Y-axis to show highest match at the top
+        plt.grid(axis='x', linestyle='--', alpha=0.7)  # Add grid for better readability
+        plt.tight_layout()
+        plt.show()
